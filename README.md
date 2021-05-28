@@ -17,11 +17,12 @@ In yours projects modify `config.yml` file:
 ```yaml
 backend:
   name: [github | gitlab]
-  repo: adrian-ub/adrian-ub # Path to your Github/Gitlab repository
+  repo: toddainsworth/toddainsworth-site # Path to your Github/Gitlab repository
   branch: main # Branch to update
-  base_url: https://netlify-cms.adrianub.vercel.app
+  base_url: https://netlify-cms.toddainsworth.vercel.app
 ```
 
 ## Authors
 
-- Adrián UB ([@AdrianUB](https://twitter.com/AdrianUB))
+- Adrián UB ([@ToddAinsworth](https://twitter.com/AdrianUB))
+- Todd Ainsworth
