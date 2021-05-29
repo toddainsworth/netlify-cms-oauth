@@ -17,7 +17,7 @@ const auth = {
     authorizePath: "/login/oauth/authorize",
   },
   gitlab: {
-    tokenHost: "https://git.gibsite.xyz",
+    tokenHost: "https://git.gibsite.com",
     tokenPath: "/oauth/token",
     authorizePath: "/oauth/authorize",
   },
